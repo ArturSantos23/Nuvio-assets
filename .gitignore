@@ -1,0 +1,5 @@
+.venv/
+scripts/tmp-stills/
+scripts/_layout_test.webp
+scripts/__pycache__/
+.DS_Store
